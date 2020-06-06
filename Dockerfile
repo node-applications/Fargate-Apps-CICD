@@ -1,6 +1,6 @@
 FROM node:alpine
 
-RUN apk add --no-cache nodejs npm
+#RUN apk add --no-cache nodejs npm
 
 WORKDIR /app
 
