@@ -1,0 +1,12 @@
+{
+  "name": "fargatecicd",
+  "version": "1.0.0",
+  "description": "Fargate CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaibhav Maurya",
+  "license": "ISC"
+}
